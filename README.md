@@ -2,7 +2,7 @@
 
 Veřejný repozitář s přehledem mé práce na projektu meteorologického modelu **WRF (Weather Research and Forecasting)** – downscaling klimatických scénářů a autonomní pipeline krátkodobé předpovědi počasí, provozovaného na národní HPC platformě **MetaCentrum**.
 
-Obsahuje pouze práci vykonanou pro projekt (WRF a MetaCentrum), ne výuku, IGA ani jiné aktivity.
+Obsahuje pouze práci vykonanou pro projekt (WRF a MetaCentrum).
 
 ## Obsah
 
